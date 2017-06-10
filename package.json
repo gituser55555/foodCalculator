@@ -1,0 +1,22 @@
+{
+  "name": "food-calculator",
+  "version": "1.0.0",
+  "description": " simple MEAN stack web app that gives information about foods and performs calculations for people",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gituser55555/foodCalculator.git"
+  },
+  "author": "gituser55555",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gituser55555/foodCalculator/issues"
+  },
+  "homepage": "https://github.com/gituser55555/foodCalculator#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
